@@ -1,0 +1,25 @@
+.nav-item{
+    margin-left: 50px;
+    padding-left: 50px !important;
+    position: sticky;
+}
+.container-fluid{
+    text-align: center !important;
+    
+}
+.mobile{
+    float: left !important;
+}
+.mobile2{
+    float: right !important;
+}
+body {
+    background-image: linear-gradient(to right, white ,pink);
+  }
+  nav{
+    background-image: linear-gradient(to right, white ,pink);
+  }
+  .flex{
+    flex-direction: row !important;
+  }
+
